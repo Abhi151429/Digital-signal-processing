@@ -1,2 +1,0 @@
-# Digital-signal-processing
-Lab
